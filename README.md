@@ -1,6 +1,6 @@
 ## Hi, I'm Alessandro 👋
 
-CS graduate from EPFL (BSc, July 2026), starting the joint EPFL–ETHZ Master's in **Cybersecurity** this September. Interested in post-quantum cryptography and applied security.
+CS graduate from EPFL (BSc, July 2026), starting the joint EPFL-ETHZ Master's in **Cybersecurity** this September. Interested in post-quantum cryptography and applied security.
 
 ### Project highlights
 
